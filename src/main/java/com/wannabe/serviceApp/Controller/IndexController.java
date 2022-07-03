@@ -1,4 +1,4 @@
-package com.wannabe.HelloWorld.Controller;
+package com.wannabe.serviceApp.Controller;
 
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;

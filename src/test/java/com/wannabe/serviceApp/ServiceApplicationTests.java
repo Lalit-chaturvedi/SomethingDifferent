@@ -1,10 +1,10 @@
-package com.wannabe.HelloWorld;
+package com.wannabe.serviceApp;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class HelloWorldApplicationTests {
+class ServiceApplicationTests {
 
 	@Test
 	void contextLoads() {
