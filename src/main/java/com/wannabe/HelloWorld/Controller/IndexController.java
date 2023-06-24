@@ -15,6 +15,7 @@ public class IndexController {
     return ResponseEntity.ok("Request success !");
   }
 
+  
   @GetMapping("/v2/greet")
   public ResponseEntity<?> greetingV2() {
 
